@@ -9,7 +9,7 @@
 - Heart disease prediction  
 
 ## Skills
-Python | Machine Learning | React | Node.js | SQL  
+Python| C | C++ | Java | Machine Learning (Scikit-learn, XGBoost) | Data Analysis (Pandas, NumPy) | React | Node.js | SQL | MongoDB | Git  
 
 ## Contact
 [LinkedIn](https://linkedin.com/in/ganji-karthik) | [Email](mailto:ganjikarthik999@gmail.com)  
