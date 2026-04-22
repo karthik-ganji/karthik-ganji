@@ -12,4 +12,4 @@
 Python | Machine Learning | React | Node.js | SQL  
 
 ## Contact
-LinkedIn | Email  
+[LinkedIn](https://linkedin.com/in/ganji-karthik)|[Email](mailto:ganjikarthik999@gmail.com)  
